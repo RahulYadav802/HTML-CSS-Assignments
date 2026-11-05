@@ -1,0 +1,21 @@
+<!--
+ * Student Name: Rahul Yadav
+ * Roll Number: 2510303407
+ * Course: B.Tech CSE
+ * Section: E
+ * Subject: HTML and CSS Introduction Lab (BCSAI111)
+ * Assignment: 1, Task: 3
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home Page</title>
+</head>
+<body>
+<h1>Welcome to the HTML Lab</h1>
+<h2>Next meeting</h2>
+</body>
+</html>
+
